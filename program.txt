@@ -2,6 +2,9 @@ Welcome to Programming
  Java
  Python 
  Django
+HTML
+CSS
+Javascript
 
 Thank you!
  
